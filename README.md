@@ -1,2 +1,2 @@
-# ICSC2018
-This repository has algorithms and queries presented in ICSC2018 paper.
+#2018
+This repository has algorithms and queries presented in paper titled 'Semantic Data Querying Over NoSQL Databases with Apache Spark'.
